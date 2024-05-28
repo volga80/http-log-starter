@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.http_log_starter.component.RestTemplateLoggingTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.338 s -- in ru.http_log_starter.component.RestTemplateLoggingTest

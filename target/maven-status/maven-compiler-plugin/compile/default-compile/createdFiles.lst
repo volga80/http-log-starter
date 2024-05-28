@@ -1,0 +1,6 @@
+ru\http_log_starter\config\WebClientConfig.class
+ru\http_log_starter\component\ControllerLogging.class
+ru\http_log_starter\component\WebClientLogging.class
+ru\http_log_starter\component\RestTemplateLogging.class
+ru\http_log_starter\config\LoggingAutoConfiguration.class
+ru\http_log_starter\config\RestTemplateConfig.class

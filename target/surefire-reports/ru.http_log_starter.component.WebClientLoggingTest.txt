@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.http_log_starter.component.WebClientLoggingTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.16 s -- in ru.http_log_starter.component.WebClientLoggingTest

@@ -1,0 +1,3 @@
+ru.http_log_starter.config.LoggingAutoConfiguration
+ru.http_log_starter.config.RestTemplateConfig
+ru.http_log_starter.config.WebClientConfig

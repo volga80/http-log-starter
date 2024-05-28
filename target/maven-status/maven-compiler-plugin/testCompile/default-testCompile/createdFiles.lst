@@ -1,0 +1,3 @@
+ru\http_log_starter\component\RestTemplateLoggingTest.class
+ru\http_log_starter\component\ControllerLoggingTest.class
+ru\http_log_starter\component\WebClientLoggingTest.class
